@@ -87,7 +87,7 @@ npm run build
 ![Shortest Path](ShortestPath.png)
 
 ### Maximum Flow Optimization
-![Maximum Flow](Maximumflow.png)
+![Maximum Flow](MaximumFlow.png)
 
 ## Optimization Techniques
 
