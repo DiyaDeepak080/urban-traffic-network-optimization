@@ -81,13 +81,13 @@ npm run build
 ## Web Application Screenshots
 
 ### Dashboard and Traffic Statistics
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Shortest Path Optimization
-![Shortest Path](screenshots/shortest-path.png)
+![Shortest Path](shortest-path.png)
 
 ### Maximum Flow Optimization
-![Maximum Flow](screenshots/maximum-flow.png)
+![Maximum Flow](maximum-flow.png)
 
 ## Optimization Techniques
 
