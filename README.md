@@ -84,10 +84,10 @@ npm run build
 ![Dashboard](dashboard.png)
 
 ### Shortest Path Optimization
-![Shortest Path](shortest-path.png)
+![Shortest Path](Shortest Path.png)
 
 ### Maximum Flow Optimization
-![Maximum Flow](maximum-flow.png)
+![Maximum Flow](Maximum flow.png)
 
 ## Optimization Techniques
 
