@@ -78,6 +78,17 @@ To build for production:
 npm run build
 ```
 
+## Web Application Screenshots
+
+### Dashboard and Traffic Statistics
+![Dashboard](screenshots/dashboard.png)
+
+### Shortest Path Optimization
+![Shortest Path](screenshots/shortest-path.png)
+
+### Maximum Flow Optimization
+![Maximum Flow](screenshots/maximum-flow.png)
+
 ## Optimization Techniques
 
 1. **Shortest Path (Dijkstra)**
